@@ -1,2 +1,1 @@
-touch sample
-echo welcome > sample
+echo "welcome"
